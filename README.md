@@ -4,8 +4,6 @@ Odoo 18 module for managing students and courses with a many-to-many enrollment.
 ---
 
 
----
-
 ## Test
 - Open **http://localhost:8069**
 - Menu: **Student Management → Courses** → create a few
